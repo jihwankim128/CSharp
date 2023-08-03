@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\004_Check\bin\Debug\004_Check.exe.config
+C:\Users\Administrator\source\repos\Restart\004_Check\bin\Debug\004_Check.exe
+C:\Users\Administrator\source\repos\Restart\004_Check\bin\Debug\004_Check.pdb
+C:\Users\Administrator\source\repos\Restart\004_Check\obj\Debug\004_Check.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\004_Check\obj\Debug\004_Check.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\004_Check\obj\Debug\004_Check.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\004_Check\obj\Debug\004_Check.exe
+C:\Users\Administrator\source\repos\Restart\004_Check\obj\Debug\004_Check.pdb
