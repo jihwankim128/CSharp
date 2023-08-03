@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\bin\Debug\017_Data_bool.exe.config
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\bin\Debug\017_Data_bool.exe
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\bin\Debug\017_Data_bool.pdb
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\obj\Debug\017_Data_bool.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\obj\Debug\017_Data_bool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\obj\Debug\017_Data_bool.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\obj\Debug\017_Data_bool.exe
+C:\Users\Administrator\source\repos\Restart\017_Data_bool\obj\Debug\017_Data_bool.pdb
