@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\016_Data9\bin\Debug\016_Data9.exe.config
+C:\Users\Administrator\source\repos\Restart\016_Data9\bin\Debug\016_Data9.exe
+C:\Users\Administrator\source\repos\Restart\016_Data9\bin\Debug\016_Data9.pdb
+C:\Users\Administrator\source\repos\Restart\016_Data9\obj\Debug\016_String.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\016_Data9\obj\Debug\016_String.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\016_Data9\obj\Debug\016_String.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\016_Data9\obj\Debug\016_Data9.exe
+C:\Users\Administrator\source\repos\Restart\016_Data9\obj\Debug\016_Data9.pdb
