@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\006_Variable\bin\Debug\006_Variable.exe.config
+C:\Users\Administrator\source\repos\Restart\006_Variable\bin\Debug\006_Variable.exe
+C:\Users\Administrator\source\repos\Restart\006_Variable\bin\Debug\006_Variable.pdb
+C:\Users\Administrator\source\repos\Restart\006_Variable\obj\Debug\006_Variable.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\006_Variable\obj\Debug\006_Variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\006_Variable\obj\Debug\006_Variable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\006_Variable\obj\Debug\006_Variable.exe
+C:\Users\Administrator\source\repos\Restart\006_Variable\obj\Debug\006_Variable.pdb
