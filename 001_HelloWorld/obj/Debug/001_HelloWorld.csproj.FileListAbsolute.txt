@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\bin\Debug\_001_HelloWorld.exe.config
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\bin\Debug\_001_HelloWorld.exe
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\bin\Debug\_001_HelloWorld.pdb
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\obj\Debug\001_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\obj\Debug\_001_HelloWorld.exe
+C:\Users\Administrator\source\repos\Restart\_001_HelloWorld\obj\Debug\_001_HelloWorld.pdb
