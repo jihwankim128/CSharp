@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\013_Data6\bin\Debug\013_Data6.exe.config
+C:\Users\Administrator\source\repos\Restart\013_Data6\bin\Debug\013_Data6.exe
+C:\Users\Administrator\source\repos\Restart\013_Data6\bin\Debug\013_Data6.pdb
+C:\Users\Administrator\source\repos\Restart\013_Data6\obj\Debug\013_Data6.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\013_Data6\obj\Debug\013_Data6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\013_Data6\obj\Debug\013_Data6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\013_Data6\obj\Debug\013_Data6.exe
+C:\Users\Administrator\source\repos\Restart\013_Data6\obj\Debug\013_Data6.pdb
