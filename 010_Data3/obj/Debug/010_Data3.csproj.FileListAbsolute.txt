@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\010_Data3\bin\Debug\010_Data3.exe.config
+C:\Users\Administrator\source\repos\Restart\010_Data3\bin\Debug\010_Data3.exe
+C:\Users\Administrator\source\repos\Restart\010_Data3\bin\Debug\010_Data3.pdb
+C:\Users\Administrator\source\repos\Restart\010_Data3\obj\Debug\010_Data3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\010_Data3\obj\Debug\010_Data3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\010_Data3\obj\Debug\010_Data3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\010_Data3\obj\Debug\010_Data3.exe
+C:\Users\Administrator\source\repos\Restart\010_Data3\obj\Debug\010_Data3.pdb
