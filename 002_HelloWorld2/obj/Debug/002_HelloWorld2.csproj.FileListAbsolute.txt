@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
+C:\Users\Administrator\source\repos\Restart\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb
