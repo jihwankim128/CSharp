@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Restart\015_Data8\bin\Debug\015_Data8.exe.config
+C:\Users\Administrator\source\repos\Restart\015_Data8\bin\Debug\015_Data8.exe
+C:\Users\Administrator\source\repos\Restart\015_Data8\bin\Debug\015_Data8.pdb
+C:\Users\Administrator\source\repos\Restart\015_Data8\obj\Debug\015_Data8.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Restart\015_Data8\obj\Debug\015_Data8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Restart\015_Data8\obj\Debug\015_Data8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Restart\015_Data8\obj\Debug\015_Data8.exe
+C:\Users\Administrator\source\repos\Restart\015_Data8\obj\Debug\015_Data8.pdb
